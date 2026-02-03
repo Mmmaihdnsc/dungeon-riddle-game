@@ -9,3 +9,4 @@ without getting 4 keys u cant win
 note:change thepython verson to microsoft version
 
 the qns ,score,lives appeare in the terminal
+if u want to run this first clone it into your laptop and then remote add my repo to that folder
