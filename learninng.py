@@ -5,7 +5,9 @@ import os
 os.environ['SDL_VIDEO_WINDOW_POS']="300,30"
 clock=pygame.time.Clock()
 pygame.init()
-
+pygame.mixer.init()
+sound=pygame.mixer.Sound("images//music.mp3")
+sound.play(-1)
 score=0
 def quiz_q1():
     print("\nI light the way but burn away.")
