@@ -7,3 +7,5 @@ where each qn is obtained by answering riddle in each  where u answer and move ,
 without getting 4 keys u cant win
 
 note:change thepython verson to microsoft version
+
+the qns ,score,lives appeare in the terminal
